@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Passwordstrength</string>
+
+    <!-- 修改密码 -->
+    <string name="change_pwd_old_pwd">旧密码</string>
+    <string name="change_pwd_new_pwd">新密码</string>
+    <string name="change_pwd_sure_pwd">密码确认</string>
+    <string name="change_pwd_sure">确定</string>
+    <string name="change_pwd_cancle">取消</string>
+    <string name="change_pwd_old_pwd_can_not_null">旧密码不能为空</string>
+    <string name="change_pwd_new_pwd_can_not_null">新密码不能为空</string>
+
+    <!-- 密码强度 -->
+    <string name="password_strength_weak">低</string>
+    <string name="password_strength_medium">中</string>
+    <string name="password_strength_strong">高</string>
+    <string name="passwordnew_security_low">新密码安全系数太低</string>
+    <string name="change_pwd_not_same_twice">两次密码不一致</string>
+
+    <string name="dialog_title">提示</string>>
+    <string name="dialog_sure">确认</string>
+</resources>
