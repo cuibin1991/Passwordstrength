@@ -52,7 +52,7 @@
         android:layout_width="331dp"
         android:layout_height="37dp"
         android:text="*由数字、字母或符号至少两种组成的8~20位半角字\n  符，区分大小写。"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="38dp"
         app:layout_constraintTop_toBottomOf="@+id/change_pwd_new_pwd"
         android:layout_marginLeft="19dp"
         app:layout_constraintLeft_toLeftOf="parent" />
@@ -113,7 +113,7 @@
         android:id="@+id/password_strength_change"
         android:layout_width="19dp"
         android:layout_height="18dp"
-        android:text="低"
+        android:text=""
         app:layout_constraintLeft_toRightOf="@+id/progressBar_changepassword"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="36dp"

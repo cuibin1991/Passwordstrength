@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.cuibin.passwordstrength.component.AlertDialogBuilder;
 import com.example.cuibin.passwordstrength.component.PasswordStrength;
@@ -100,6 +101,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             showMessageDialog(R.string.change_pwd_not_same_twice);
             return;
         }
+
+        Toast.makeText(getApplicationContext(), R.string.change_pwd_change_pwd_sucess, Toast.LENGTH_SHORT).show();
     }
 
     private void showMessageDialog(int msgId) {

@@ -9,6 +9,7 @@
     <string name="change_pwd_cancle">取消</string>
     <string name="change_pwd_old_pwd_can_not_null">旧密码不能为空</string>
     <string name="change_pwd_new_pwd_can_not_null">新密码不能为空</string>
+    <string name="change_pwd_change_pwd_sucess">修改密码成功</string>
 
     <!-- 密码强度 -->
     <string name="password_strength_weak">低</string>
