@@ -15,4 +15,18 @@ Android客户端，用户可以进行密码修改，密码强度校验。具体�
 
 4.使用ConstraintLayout布局进行界面设计。
   具体效果如下图所示：
- 
+  ![image](https://github.com/cuibin1991/Passwordstrength/blob/master/samples/001.jpg)
+  
+   密码强度低
+  
+  
+  ![image](https://github.com/cuibin1991/Passwordstrength/blob/master/samples/002.jpg)
+  
+   密码强度中
+  
+  
+  ![image](https://github.com/cuibin1991/Passwordstrength/blob/master/samples/003.jpg)
+  
+   密码强度高
+  
+  
